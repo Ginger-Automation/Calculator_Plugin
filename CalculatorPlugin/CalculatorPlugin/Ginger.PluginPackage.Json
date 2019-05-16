@@ -1,0 +1,8 @@
+{
+  "Id": "Calculator",
+  "Version": "v1.0.0",
+  "ProjectUrl": "https://github.com/Ginger-Automation/Calculator_Plugin",
+  "Description": "Allow calculating",
+  "Summary": "calculating",
+  "StartupDLL": "CalculatorPlugin.dll"
+}
